@@ -146,7 +146,7 @@
 
 
 		// SLIDER
-		var menu = ['WHO WE ARE<span>OUR PASSION</span>', 'NOTHERN LIGHTS<span>SPECIAL OFFER</span>', 'BEST SELLING<span>ICE CLIMBING</span>', 'THE FAMOUS<span>HIKING TRAILS</span>'];
+		var menu = ['Who We Are<span>Our Passion</span>', 'Astro to macro<span>DestinationX Special Offer</span>', 'Best Selling<span> Tour Packages</span>', 'V4U CSR to<span>Save Our Beaches</span>'];
 		var interleaveOffset = 0.5;
 		var swiperOptions = {
 			loop: true,
